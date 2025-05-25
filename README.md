@@ -24,6 +24,9 @@ TOOL/
 
 ### 1. Clone git về máy
 
+```bash
+git clone https://github.com/PHTLing/Annotation_Tool.git
+```
 ### 2. Tạo môi trường ảo
 
 ```bash
