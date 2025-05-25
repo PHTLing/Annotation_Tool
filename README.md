@@ -22,7 +22,9 @@ TOOL/
 
 ## ✅ Cài đặt & chạy ứng dụng
 
-### 1. Tạo môi trường ảo
+### 1. Clone git về máy
+
+### 2. Tạo môi trường ảo
 
 ```bash
 python -m venv venv
@@ -42,7 +44,7 @@ Kích hoạt:
 
 ---
 
-### 2. Cài thư viện cần thiết
+### 3. Cài thư viện cần thiết
 
 ```bash
 pip install -r requirements.txt
@@ -50,7 +52,7 @@ pip install -r requirements.txt
 
 ---
 
-### 3. Chạy server
+### 4. Chạy server
 
 ```bash
 python server.py
@@ -60,7 +62,7 @@ Mặc định chạy tại: [http://localhost:8000](http://localhost:8000), có 
 
 ---
 
-### 4. Mở giao diện
+### 5. Mở giao diện
 
 Chạy xong server, mở file sau trong trình duyệt:
 
