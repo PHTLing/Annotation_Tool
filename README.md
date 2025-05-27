@@ -1,4 +1,4 @@
-# 🔤 Encode–Decode Annotation Tool
+# 🔤 Preprocessing and Annotation Tool
 
 Ứng dụng web đơn giản để:
 - **Encode**: Dự đoán nhãn từ file text sử dụng mô hình CRF và chuyển đổi định dạng phù hợp với web annotate.
